@@ -59,9 +59,3 @@ A web application that calculates the total value of a Steam user's CS:GO invent
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/Steam_ACC_Prices](https://github.com/yourusername/Steam_ACC_Prices)
